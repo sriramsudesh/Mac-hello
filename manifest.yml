@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Mac-hello
-  host: Mac-hello
+  name: water-analysis
+  host: water-analysis
   disk_quota: 1024M
